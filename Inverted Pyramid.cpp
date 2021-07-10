@@ -1,4 +1,4 @@
-//Cross-Upper triangle ( Also called Inverted Pyramid)
+// Inverted Pyramid (Also called Cross-Upper triangle)
 #include<iostream>
 using namespace std;
 
